@@ -27,7 +27,7 @@ source:
 
 build:
   # build number starts at zero for each new version
-  number: 4
+  number: 5
   skip:
     - osx and arm64
   script:
